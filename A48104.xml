@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter giving an account of the manner of chusing Joseph King of Hungaria to be king of the Romans, on Jan. 21. 1689/90 By the eight electors of the sacred Roman empire. Licens'd, Jan. 18. 1690.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48104</idno>
+            <idno type="STC">Wing L1549B</idno>
+            <idno type="STC">ESTC R213611</idno>
+            <idno type="EEBO-CITATION">99825948</idno>
+            <idno type="PROQUEST">99825948</idno>
+            <idno type="VID">30340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1796:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter giving an account of the manner of chusing Joseph King of Hungaria to be king of the Romans, on Jan. 21. 1689/90 By the eight electors of the sacred Roman empire. Licens'd, Jan. 18. 1690.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Bently, and are to be sold by R. Baldwin in the Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Joseph --  I, --  Holy Roman Emperor, 1678-1711 --  Early works to 1800.</term>
+               <term>Germany --  History --  1648-1740 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30340:1"/>
+            <pb facs="tcp:30340:1" rendition="simple:additions"/>
+            <p>A LETTER Giving an ACCOUNT Of the manner of chuſing <hi>JOSEPH</hi> King of <hi>HUNGARIA</hi> TO BE <hi>King of the Romans,</hi> On <hi>JAN.</hi> 21. 16889/90. By the eight Electors of the Sacred <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Empire.</p>
+            <p>LICENS'D, <hi>Jan.</hi> 18. 1690.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bently,</hi> and are to be ſold by <hi>R. Baldwin</hi> in the <hi>Old Baily,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30340:2"/>
+            <pb n="3" facs="tcp:30340:2"/>
+            <head>A LETTER Giving an Account of the chuſing the King of the <hi>ROMANS.</hi>
+            </head>
+            <p>WHEN <hi>Charles</hi> the Great had overcome <hi>Deſiderius</hi> the King of the <hi>Lombards,</hi> and put him to flight, the Pope <hi>Leo,</hi> the Senate, and the People of <hi>Rome,</hi> conferred the Imperial Dignity with an unani<g ref="char:EOLhyphen"/>mous conſent upon him, with the Kingdom of <hi>Germany,</hi> and in his Poſterity it has continued by a hereditary Succeſſion to <hi>Louys</hi> the IV. or as ſome write by a mixt one, <hi>viz.</hi> by a hereditary and elective Succeſſion.</p>
+            <p>The <hi>Caroline</hi> Line being ended by <hi>Louys</hi> the IV. the Princes of the Empire did offer the Imperial Crown with one conſent to <hi>Otto</hi> Prince of <hi>Saxony,</hi> but Prince <hi>Otto</hi> being of a great Age, did refuſe that great Honour, and adviſed the Princes to chuſe <hi>Conrad</hi> Duke of <hi>Franconia,</hi> commending him for a great Heroe, and a very ex<g ref="char:EOLhyphen"/>pert Man in Wars, and worthy of the Imperial Crown: The Princes approving of his counſel, offered the Imperial Crown to the ſaid <hi>Conrad</hi> Prince of <hi>Franconia,</hi> which he readily accepted of. To him ſucceeded <hi>Henry</hi> ſurnamed the <hi>Fowler,</hi> and <hi>Henry</hi> was ſucceeded by <hi>Otto</hi> the Great, and <hi>Otto</hi> the Great by <hi>Otto</hi> the XI. And after him the others came to the Crown by a mixt Succeſſion, part<g ref="char:EOLhyphen"/>ly by a Hereditary, partly by an Elective one, till <hi>Henry</hi> the Fourth's time. But in his time the Princes of the Empire by the Popes inſtigation, whoſe intereſt it was, that the ſtrength of the Empire by a free Election might be leſſened and appaiſed, did wholly abrogate the hereditary Succeſſion, and eſtabliſhed by a pub<g ref="char:EOLhyphen"/>lick Law, That no body ſhould come to the Royal Power and Dig<g ref="char:EOLhyphen"/>nity by Inheritance, as it formerly uſed to be; and that if the King's Son were never ſo worthy and accompliſhed a Prince, yet he ſhould not by Succeſſion, but by Election, come to the Throne. Notwithſtanding this Law, according to the Cuſtom of the <hi>Ger<g ref="char:EOLhyphen"/>mans,</hi> they always uſed to prefer the deceaſed King's Son, or his
+<pb n="4" facs="tcp:30340:3"/>neareſt Relation, if they were worthy and qualified: They ſome<g ref="char:EOLhyphen"/>times choſe the King's Son, or his neareſt Kindred (the Parents living) and had alſo a great regard to the Royal Line in their E<g ref="char:EOLhyphen"/>lection, becauſe they did ſee, that the neglect thereof, and the paſſing over the Royal Blood, commonly cauſed great Troubles. And perhaps if this old <hi>German</hi> cuſtom in the Election had not been revived again, the Commonwealth would have faln to a total decay; And this has been the cauſe, that out of the moſt illuſtri<g ref="char:EOLhyphen"/>ous <hi>Auſtrian</hi> Family from <hi>Albert</hi> the II. without any interruption, eleven Emperors have been choſen, <hi>Ferdinand</hi> the IV. not comprehended, who dyed King of the <hi>Romans.</hi>
+            </p>
+            <p>Yet this did not leſſen or derogate in the leaſt the liberty of Election, nor did out of this long time accrue any right to the Family of <hi>Auſtria:</hi> For it is not the Family, but the prudent choice of the Electors, that makes them <hi>Roman</hi> Kings and Emperors; and it is by reaſon of the great Power and Honour, and the Merits of their Anceſtors, and becauſe the Kingdoms which this Family poſſeſſes, which are like a Bulwark to <hi>Germany</hi> againſt the <hi>Turkiſh</hi> Cruelty and Fury, that the Electors have been pleaſed to chuſe out of it their Head, and without ſome very great Reaſons they will never leave the ſame. Now to aſſure you of this free Election, we will ſee what the Capitulations provide in this caſe, which they did ſwear to keep.</p>
+            <p>Firſt of all, we neither ſhall nor will pretend to any Succeſſion or Inheritance of the Sacred <hi>Roman</hi> Empire, nor aſſume or attempt the ſame? Nor ſhall we in no wiſe and manner aſpire, or endeavour to attain to it, for our ſelves, for our Heirs and Succeſſors, nei<g ref="char:EOLhyphen"/>ther for any body elſe.</p>
+            <p>But on the contrary, We as well as our Iſſue, our Heirs and Succeſſors, will maintain the Electors, their Heirs and Succeſſors for ever, in their free election of the King of the <hi>Romans,</hi> accord<g ref="char:EOLhyphen"/>ing to the Golden Bull; and the ſame as often and in all caſes, when they ſhall think it neceſſary for the conſervation of the Fun<g ref="char:EOLhyphen"/>damental Laws and this Capitulation, as alſo when they ſhall think it neceſſary and for the good of the Empire, to chuſe a King of the <hi>Romans</hi> in the <hi>Roman</hi> Emperor's Life time, that they may do it as well without as with his conſent.</p>
+            <p>And as it has been of old, according to the Golden Bull, the ancient Rights, and other Laws and Liberties, that if any thing ſhould come to decay or be infringed, ſo that the neceſſity and oc<g ref="char:EOLhyphen"/>caſion ſhould require, That the Vicars of the Empire ſhould meet and conſult together about the Affairs of the ſacred <hi>Roman</hi> Em<g ref="char:EOLhyphen"/>pire, the ſaid Vicars then ſhall in no wiſe be moleſted or di<g ref="char:EOLhyphen"/>ſturbed.</p>
+            <pb n="5" facs="tcp:30340:3"/>
+            <p>This Election is twofold, Ordinary and Extraordinary.</p>
+            <p>The Ordinary is that of an Emperor, when the Empire is be<g ref="char:EOLhyphen"/>come vacant, either by the Emperors Death, or by his Reſignation, or elſe when he is depoſed from the Empire.</p>
+            <p>But the Extraordinary Election is that of a King of the <hi>Romans,</hi> when in the Emperor's Life time, with or without his conſent, the Electors of the Empire chuſe a King of the <hi>Romans,</hi> who in the Emperor's abſence, or when he is indiſpoſed, governs and manages the Empire: And who after the Emperor's Death without any further Election, ſucceeds the Emperor in his Name, Dignity and Power; and this is done to avoid an <hi>Interregnum,</hi> as a thing that is very ſeldom proſperous.</p>
+            <p>The Perſons that chuſe him are the Electors of the Sacred <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Empire, who enjoyed that Right of chuſing, firſt, by cuſtom; but after it was confirmed to them by an expreſs Law in the Golden Bull of <hi>Charles</hi> the IV.</p>
+            <p>A great many are of that opinion, That this extraordinary E<g ref="char:EOLhyphen"/>lection of a <hi>Roman</hi> King is againſt the Conſtitutions of the Empire, and that the ſame Election does repugn the Liberties of the Ele<g ref="char:EOLhyphen"/>ctors; and that under the pretence of the ſaid Election, the Em<g ref="char:EOLhyphen"/>perors can aſpire, and deſign a hereditary Succeſſion.</p>
+            <p>It is true, that it is not conformable to the Golden Bull, although there are many Examples, that thus has been choſen a King of the <hi>Romans,</hi> yet by right it ought not to be ſo; becauſe, when the Gol<g ref="char:EOLhyphen"/>den Bull ſpeaks of ſuch a King, it is meant in caſe of neceſſity, when the Imperial See is vacant, and the Empire is without a Head and Governour. For the words in the Golden Bull, <hi>as often as, and whenſoever,</hi> are to be underſtood, as often, and when the Em<g ref="char:EOLhyphen"/>pire is vacant.</p>
+            <p>Beſides, the Power, Right, and Authority of the Temporal E<g ref="char:EOLhyphen"/>lectors, to whom the Government of the Empire, and the Vicar<g ref="char:EOLhyphen"/>ſhip in ſuch caſes, is intruſted by the Golden Bull, is very much diminiſhed and weakned, becauſe they cannot exerciſe their Rights, nor enjoy their Prerogatives; moreover, it looks as if the ſaid Electors were not capable of this Government, <hi>ad interim.</hi> There were great conteſtations in the laſt Century at the election of <hi>Ferdinand</hi> the I. inſomuch, that in the ſame Buſineſs the Prince of <hi>Bavaria</hi> did join himſelf to the Proteſtant Princes, fearing that this Election by little and little would turn into a hereditary one, and deprive the Princes of the Empire of their free Electi<g ref="char:EOLhyphen"/>on, becauſe the Emperor living will always ſtrive to have ſome of his own Children or of his Kindred about him, rather than any Prince beſides; and as they call the Emperor's Election a free
+<pb n="6" facs="tcp:30340:4"/>one, ſo they ſtyle that of a <hi>Roman</hi> King a forced one.</p>
+            <p>As for the beginning of it, it is very old. For not only in the time of the <hi>Caroline</hi> Family, the Sons in their Parents Life time were aſſured of the Succeſſion, but were alſo admitted into the Communion of the Regal and Imperial Dignity, and made partakers thereof; but this was done too hereafter in the Families of the Emperors of <hi>Saxony, Suevia,</hi> and <hi>Auſtria,</hi> when the Sons in their Fathers Life time were conſtituted Succeſſors: As, 
+<list>
+                  <item>By <hi>Otto</hi> I. in his life time <hi>Otto</hi> II.</item>
+                  <item>By <hi>Otto</hi> II. in his life time <hi>Otto</hi> III.</item>
+                  <item>By <hi>Conrad</hi> II. in his life time <hi>Henry</hi> II.</item>
+                  <item>By <hi>Frederic</hi> I. in his life time <hi>Henry</hi> VI.</item>
+                  <item>By <hi>Frederic</hi> II. in his life time <hi>Firſt Henry,</hi> and then <hi>Conrad.</hi>
+                  </item>
+                  <item>By <hi>Frederic</hi> III. in his life time <hi>Maximilian</hi> I.</item>
+               </list>
+            </p>
+            <p>But all theſe Examples of thoſe remote Centuries, as they did depend on thoſe Emperors Wills, ſo they are more a matter of Fact than of Right. Wherefore we will not extend this modern Election of a <hi>Roman</hi> King beyond its true beginning, which was in <hi>Ferdinand</hi> the Firſt's time.</p>
+            <p>When <hi>Charles</hi> the V. deſired the Princes of the Empire to chuſe his Brother <hi>Ferdinand</hi> King of the <hi>Romans;</hi> there aroſe a very hot Diſ<g ref="char:EOLhyphen"/>pute between the Emperor and the Elector of <hi>Saxony,</hi> the Duke of <hi>Lunenbourg,</hi> the <hi>Landgrave</hi> of <hi>Heſs,</hi> the Prince of <hi>Anhalt,</hi> and the Count of <hi>Mansfeld;</hi> all which would not conſent to this Election as contrary to the Golden Bull Yet <hi>Charles</hi> V. obtained it from the States of <hi>Germany,</hi> and <hi>Ferdinand</hi> King of <hi>Bohemia</hi> and <hi>Hungaria,</hi> was proclaimed King of the <hi>Romans</hi> at <hi>Cologn</hi> in the Year 1531, on the 5th of <hi>January.</hi> The Reaſons which the Emperor his Brother propoſed, were indeed weighty enough; He told the Princes, That he did not know a better and fitter Perſon for this, than his Brother the King of <hi>Hungaria</hi> and <hi>Bohemia,</hi> becauſe his Kingdoms and Fron<g ref="char:EOLhyphen"/>tiers were like a Bulwark to <hi>Germany</hi> againſt the Infidels.</p>
+            <p>Queen <hi>Elizabeth</hi> was quite of a contrary opinion; for when the States of the Kingdom deſired her to nominate a Succeſſor, ſhe did forbid it on pain of Death, That no body ſhould ſpeak of a Succeſſor during her life: For ſays ſhe, one muſt not dig himſelf a Grave as long as one doth live.</p>
+            <p>The Emperor told them further, That he could not always be in <hi>Germany,</hi> becauſe of the ſeveral Kingdoms &amp; Nations he Reigned over, and that all <hi>Chriſtendom</hi> were now in a very troubleſome and deſpe<g ref="char:EOLhyphen"/>rate ſtate, chiefly <hi>Germany,</hi> becauſe of the ſeveral Religions, and the
+<pb n="7" facs="tcp:30340:4"/>greatneſs of the <hi>Turks</hi> and their Power, and then becauſe of the Sedi<g ref="char:EOLhyphen"/>tion and the War that aroſe between the Peaſants, <hi>&amp;c.</hi>
+            </p>
+            <p>But the Elector of <hi>Saxony</hi> and his Confederates diſapproving this Election, deſired of the Emperor, that if nevertheleſs, <hi>Ferdinand</hi> being rejected, he would have a Coadjutor; that he would then with the advice of the Princes, interpret the <hi>Caroline</hi> Law, confirm and e<g ref="char:EOLhyphen"/>ſtabliſh the ſame by an Edict as it ought to be in this manner.</p>
+            <p>That for the future in the Emperors Life time, never a King of the <hi>Romans</hi> ſhould be choſen, before the Electors, with the ſix other Princes of the Empire, having effectively approved of it that it may be done ſo.</p>
+            <p>Then the Elector of <hi>Mentz</hi> in the Quality of Arch-Chancellor in <hi>Germany,</hi> muſt aſſemble his Collegues, with the ſix other Princes in a fit place, to deliberate further about this buſineſs; and when they have done all this punctually, then the Electors only with the King of <hi>Bohemia</hi> ſhall have the ſole power to create a King of the <hi>Romans.</hi> When the King of the <hi>Romans</hi> thus is created in the Emperors life time, he ſhall govern the Empire, not in his, but the Emperor's Name, with<g ref="char:EOLhyphen"/>out arrogating, or attributing to himſelf any Power or Government. The Princes and States of the Empire ſhall not be bound to him by Oath, or otherwiſe, till after the Emperor's death. When the King of the <hi>Romans</hi> is choſen, he is to be ſworn by no other Form but by that of the <hi>Carolin</hi> Law, neither ſhall it be in the power of the Ele<g ref="char:EOLhyphen"/>ctors to alter this Form. Whoſoever ſhall be convicted of having acted contrary to this Oath, or whoſoever is fallen under any ſuſpition, and has not cleared or excuſed himſelf of that matter, he ſhall be depri<g ref="char:EOLhyphen"/>ved of all the Rights of Electorſhip for ever; neither ſhall they hence<g ref="char:EOLhyphen"/>forth chuſe out of one and the ſame Family three <hi>Roman</hi> Kings one after another. None but one that is of a <hi>German</hi> Princely Family is to be choſen King of the <hi>Romans;</hi> and whatſoever is eſtabliſhed by the <hi>Ca<g ref="char:EOLhyphen"/>rolin</hi> Law concerning the Creation of a King, that ſhall neither the King of the <hi>Romans</hi> nor the Emperor alter. Whenſoever the Electors think it fit to create a King of the <hi>Romans,</hi> they need not to impart it to the Emperor beforehand; neither ſhall it be lawful for the Em<g ref="char:EOLhyphen"/>peror in this caſe to order the Elector of <hi>Mentz</hi> to call the Electors together. But when for ſome weighty Reaſons (as it ought to be) a King of the <hi>Romans</hi> is to be choſen in the Emperor's Life time, then the Elector of <hi>Mentz</hi> ſhall call his Collegues together, and appoint them a certain day, on which they ſhall appear at <hi>Francford</hi> upon the <hi>Mayn;</hi> neither ſhall it be in his power to appoint any other place for this il<g ref="char:EOLhyphen"/>luſtrious Meeting, except the Electors for ſome great Reaſons do grant it him. The Elector of <hi>Mentz</hi> ſhall not demand the Crown and Scep<g ref="char:EOLhyphen"/>ter, with the reſt of the Imperial Ornaments of the City of <hi>Nurenberg,</hi> without the conſent of the other Electors. The three Months time
+<pb n="8" facs="tcp:30340:5"/>(beginning from the denunciation thereof) within which the Electors ought to appear, ſhall not be diminiſhed; for it concerns the Empire and the Commonwealth very much, if one or the other ſhould not be preſent at that time: In the mean time, when the Electors are thus a deliberating at <hi>Francford,</hi> all the reſt muſt be excluded. And when the leaſt of theſe things is violated, the Electors then are not obliged to come to that place, neither to ſtay there; and if any thing had been done there, it ſhall be void and null.</p>
+            <p>Upon this the Elector of <hi>Saxony</hi> promis'd at the Tranſaction in <hi>Bo<g ref="char:EOLhyphen"/>hemia</hi> in the year 1534, that he like the other Princes of the Empire, would acknowledge <hi>Ferdinand</hi> the I. for the King of the <hi>Romans:</hi> And <hi>Ferdinand</hi> on the other ſide did promiſe, That he would make, that the following Articles ſhould be confirmed by the Emperor and the Electors.</p>
+            <list>
+               <item>1. That for the future none ſhould be choſen King of the <hi>Romans</hi> in the Emperor's Life time, unleſs that the Electors have firſt met toge<g ref="char:EOLhyphen"/>ther, and found it to be neceſſary, and for the good of the Empire.</item>
+               <item>2. When they have found it neceſſary, and for the good of the Empire, then they ſhall proceed to the Election, according to the Golden Bull.</item>
+               <item>3. And if any thing ſhould be done contrary to the Golden Bull, that it ſhould be void and null.</item>
+               <item>4. If theſe Articles by <hi>Ferdinand</hi>'s interceſſion ſhould not be ap<g ref="char:EOLunhyphen"/>proved of by the Emperor, and the others; then the ſaid Elector and his Allies, reſerve and keep to themſelves their own Right.</item>
+            </list>
+            <p>When the Elector of <hi>Saxony</hi> did ſee that King <hi>Ferdinand</hi> made not fully good his word concerning the ſaid Articles, he continued in diſown<g ref="char:EOLhyphen"/>ing him King of the <hi>Romans</hi> till the year 1546, when in the month of <hi>May</hi> at the Dyet at <hi>Spire,</hi> this matter came to an agreement.</p>
+            <p>It was afterwards very prudently inſerted into the Capitulations by the Emperor <hi>Matthias</hi> and his Succeſſors, that it ſhould be lawful to the Electors to chuſe a King of the <hi>Romans,</hi> when the welfare and great ne<g ref="char:EOLhyphen"/>ceſſity of the Empire does require it, whether the Emperor will or no; and this for ſeveral other Reaſons too, chiefly that the Empire may be ſure of a Succeſſor, and others in their vain and imaginary hopes cut off.</p>
+            <p>The words of <hi>Matthias</hi> his Capitulation in the 35 Article, run thus.</p>
+            <p>We will, and ought to maintain, <hi>&amp;c.</hi> the ſaid Electors, their Succeſ<g ref="char:EOLhyphen"/>ſors, and their Heirs for ever, in their free election of a <hi>Roman</hi> King, as often as the ſaid Election tends to the Emperor's help and aſſiſtance, or elſe when the good and the neceſſity of the Empire does require it, and this in the <hi>Roman</hi> Emperor's Life too; and when upon the requeſt of the Electors it ſhould be denyed them without ſome very great Rea<g ref="char:EOLhyphen"/>ſons, that the Electors then may chuſe one againſt the Emperor's will. Nay, by virtue of the <hi>Leopoldin</hi> Capitulation, the Electors are not ob<g ref="char:EOLhyphen"/>liged to have ſo much as the Emperor's conſent herein.</p>
+            <pb n="9" facs="tcp:30340:5"/>
+            <p>This extraordinary Election is performed by the Electors as well as the ordinary Election of a <hi>Roman</hi> Emperor; for it has been their bu<g ref="char:EOLhyphen"/>ſineſs hitherto, to ſee whether it is for the advantage of the Empire to chuſe a King of the <hi>Romans,</hi> wherefore ſome refer the Reaſons of chuſing a King of the <hi>Romans</hi> amongſt the Secrets of the Electoral Colledge.</p>
+            <p>But in the inſtrument of the Peace of <hi>Oſnabruck,</hi> it was provided, That the Election of the King of the <hi>Romans</hi> ſhould be made in the Univerſal Aſſemblies, with the general conſent of the States of the Empire; and thence it is, that the reſt of the other States claim and attribute to themſelves the right of ſitting in the Examination, and the taking cog<g ref="char:EOLhyphen"/>niſance of the cauſes of chuſing a King of the <hi>Romans.</hi> For thus the States of the Circle of lower <hi>Saxony</hi> at <hi>Lunenbourg</hi> in the year 1652, did ſay,</p>
+            <p>Whereas the Election of the King of the <hi>Romans</hi> concerns all the States of the Empire, and that the Empire may continue in its form and Fun<g ref="char:EOLhyphen"/>damental Laws, it is but right and reaſonable, that when in the Life of an Emperor a King of the <hi>Romans</hi> ſhould be choſen, that the Rea<g ref="char:EOLhyphen"/>ſons thereof ſhould be made known to all the States, and that they ſhould have an equal ſhare in the Conſultations.</p>
+            <p>The end of this Election is two fold.</p>
+            <list>
+               <item>1. That the Empire for certain may have a Succeſſor, and it is to avoid all Troubles which may ariſe hereafter by an ambiguous or doubtful Election.</item>
+               <item>2. That in the abſence of the Emperor, he may ſupply his place in governing the Empire; for the Emperor having then three Kingdoms, that of <hi>Germany,</hi> that of the <hi>Lombards,</hi> and the <hi>Romiſh;</hi> he very often went there, as well to be Crowned there, and to receive Homage, as to ſubdue them again when they were in Rebellion.</item>
+            </list>
+            <p>This Election is carryed by the majority of Voices; and every Elect<g ref="char:EOLhyphen"/>or ſhall not have above 200 Horſemen in his retinue; yet this has not been obſerved ſo ſtrictly, but ſome had ſometimes above 1000 with them. No Stranger is ſuffered to ſtay in the City during this Election; and outlandiſh Ambaſſadors too muſt retire out of the City; and where<g ref="char:EOLhyphen"/>ever this Election is, that City guards the City by its own Men.</p>
+            <p>The particulars of this Election are chiefly theſe.</p>
+            <p>If the elected King perhaps was the <hi>Roman</hi> Emperor's Son, then the Deputy of the Electoral Colledge makes the Emperor acquainted with his Son's Dignity. Upon which the Emperor preſents himſelf in an Ap<g ref="char:EOLhyphen"/>partment to the Electors, and gives them firſt thanks for the love and affection they have for his Family, and promiſes them, that he will do all his endeavours, as well in inſtructing his Son in the Government and high Station they have been pleaſed to elevate him to, as in helping and aſſiſting them when and where-ever the occaſion ſhould require it, and then he admoniſhes his Son too, to be grateful to the Electors. Thus
+<pb n="10" facs="tcp:30340:6"/>the moſt glorious Emperor <hi>Ferdinand</hi> III. did exhort his Son <hi>Ferdi<g ref="char:EOLhyphen"/>nand</hi> IV. after he was choſen King of the <hi>Romans</hi> at <hi>Ausbourg, May.</hi> 24. 1653, and Crowned at <hi>Ratisbonne June</hi> 18. 1653. and had thanked the Electors for his Election: The Emperor then ſpoke to his Son the elected King, ſaying,</p>
+            <p>
+               <hi>And you my Son, conſider what a heavy burthen you now have upon you, and therefore how much need you have of their <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>neſſes the Electors coun<g ref="char:EOLhyphen"/>ſel and help, whoſe propenſe favour and good will towards <g ref="char:V">Ʋ</g>s, you ought gratefully to acknowledge all the days of your life; and ſo wholly depending of their counſel, you alſo muſt revere them.</hi>
+            </p>
+            <p>To which the elected King preſently anſwered, in a ſhort and a moſt elegant Speech to his Father the Emperor, and the Electors, which was very much to the purpoſe.</p>
+            <p>And ſo having thus thanked the Electors, the elected King and the Electors go out, then the Marſhall ſhuts the door of the Apartment; and when the King has taken his Oath in the Veſtry, that he will keep the Capitulations, he is conducted to the high Altar, upon which he is lift<g ref="char:EOLhyphen"/>ed up by the Electors; all the Electors who are preſent aſſiſt in this, and if ſome are abſent and have their Envoys there, the ſaid Envoys or Ple<g ref="char:EOLhyphen"/>nipotentiaries are not admitted to that elevation: It is likewiſe ſo when they are of an odd or unequal number. As for example, when three Spi<g ref="char:EOLhyphen"/>ritual and two Temporal Electors are there, then to make the number even; one of the three Spiritual Electors is excluded, and the two o<g ref="char:EOLhyphen"/>ther Spiritual with the two Temporal Electors, perform that Office; in the mean while there is heard an incomparable Muſick, and the Trumpets, Kettle Drums, and Bells, applaud this Solemn Action.</p>
+            <p>The Elector of <hi>Brandenbourg</hi> takes then the Crown from the elevated Kings Head, which the Elector <hi>Palatine</hi> lays aſide. When the King is taken down from the Altar, the Vicars approach to the Table, and take from thence the Imperial Ornaments which they deliver to the Electors that are preſent, and they keep the Ornaments of the abſent Electors: And ſo they conduct the elected King to the Throne in a competent order, every one taking his Princely Seat at the uſual ſide; and then one of the Canons of <hi>Mentz,</hi> and commonly the chiefeſt, the <hi>Thumprobſt</hi> proclaims the elected King, which they in a moſt raviſhing manner accompany to the Palace.</p>
+            <p>The King of the <hi>Romans</hi> that is thus choſen in the Emperor's Life time, differs from the Emperor.</p>
+            <list>
+               <item>1. In his Coat of Arms; the Emperor has a two-headed Eagle, but the King of the <hi>Romans</hi> has but a ſingle one.</item>
+               <item>2. The Emperor makes uſe of Bulls, but the King of the <hi>Romans</hi> only of a Seal.</item>
+               <item>3. The Emperor is called <hi>Always Auguſt,</hi> but the <hi>Roman</hi> King is only call'd <hi>Auguſt<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <pb facs="tcp:30340:6"/>
+               <item>4. The Emperor calls, and greets the King of the <hi>Romans,</hi> Our Couſin, <hi>&amp;c.</hi> or ſometimes Majeſty and Couſin together; but the King calls the Emperor his Lord and Majeſty.</item>
+               <item>5. The King of the <hi>Romans</hi> can commit High Treaſon againſt the Emperor.</item>
+               <item>6. The Power of the <hi>Roman</hi> King is but by the Commiſſion of the Emperor, ſo that whatſoever he does, he does it by the Emperor's Au<g ref="char:EOLhyphen"/>thority, which appears by the Capitulation preſcribed to <hi>Rodolph</hi> the II.</item>
+            </list>
+            <p>We will not aſſume to Us any thing of the Government, or Admi<g ref="char:EOLhyphen"/>niſtration of the Sacred <hi>Roman</hi> Empire, no further than as far as his Im<g ref="char:EOLhyphen"/>perial Majeſty will grant and permit Us.</p>
+            <p>Neither ſhall or will we be in any way prejudicial to his Majeſties Highneſs and Imperial Dignity, during his Majeſties Life.</p>
+            <p>But ſome ſay, that he has his Power by virtue of his Election, which Power is limited, and only to be exerciſed at a certain time and man<g ref="char:EOLhyphen"/>ner. Such is to be ſeen in <hi>R. J. Spir.</hi> 1542. inſtead and in the name of his Imperial Majeſty, and for Our Self. And in the Capitulation of <hi>Maximilian</hi> the II. and <hi>Ferdinand</hi> the III. by Our Royal and future Im<g ref="char:EOLhyphen"/>perial Government.</p>
+            <p>The King of the <hi>Romans</hi> on the other ſide, agrees with the Emperor in regard of his Dignity, ſave the Emperor's Prerogative and Preheminence. And thence it is, that the King of the <hi>Romans</hi> is called the Head of the Empire after the Emperor, becauſe he is in certain hopes to have it, as ſure as the <hi>Dolphin</hi> in <hi>France</hi> is to have the Kingdom of <hi>France,</hi> and a true Prince of <hi>Wales</hi> that of <hi>Great Britain,</hi> and the Prince in <hi>Spain</hi> that of <hi>Spain.</hi>
+            </p>
+            <p>Now the Elector of <hi>Mentz</hi> as Arch-Chancellor through <hi>Germany,</hi> did aſſemble the Electors of the <hi>Roman</hi> Empire, according to the ſaid manner; and the form of the Golden Bull, intreating them, That they would come to the Election of a King of the <hi>Romans</hi> at <hi>Augsbourg,</hi> within the ſpace of three Months, which they did accordingly, and appeared there.</p>
+            <p>And firſt of all, <hi>Leopold</hi> the <hi>Roman</hi> Emperor, and then the eight Electors.</p>
+            <list>
+               <item>1. <hi>Anſelm Francis, Frederic</hi> Elector, and Arch-Biſhop of <hi>Mentz,</hi> and Arch-Chancellor through <hi>Germany.</hi>
+               </item>
+               <item>2. <hi>John Hugo</hi> Elector, and Arch-Biſhop of <hi>Trier,</hi> Arch-Chance<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lor through <hi>France.</hi>
+               </item>
+               <item>3. <hi>Clemens</hi> Elector, and Arch-Biſhop of <hi>Cologn,</hi> Arch-Chancellor through <hi>Italy.</hi>
+               </item>
+               <item>4. <hi>Leopold</hi> King of <hi>Bohemia,</hi> Arch-Skinker or Arch-Cup-bearer of the Sacred <hi>Roman</hi> Empire. His Perſon was repreſented by the Chancellor of the Kingdom of <hi>Bohemia.</hi>
+               </item>
+               <pb facs="tcp:30340:7"/>
+               <item>5. <hi>Maximilian Maria</hi> Elector of <hi>Bavaria,</hi> and Arch-Sewer of the Sacred <hi>Roman</hi> Empire.</item>
+               <item>6. <hi>George</hi> the III. Elector of <hi>Saxony,</hi> and Arch-Marſhal of the Sa<g ref="char:EOLhyphen"/>cred <hi>Roman</hi> Empire. He was repreſented by his Ambaſſador.</item>
+               <item>7. <hi>Frederic</hi> the III. Elector of <hi>Brandenbourg,</hi> and Arch-Chamber<g ref="char:EOLhyphen"/>lain of the Sacred <hi>Roman</hi> Empire, did not come in Perſon, but was repreſented by his Ambaſſador.</item>
+               <item>8. <hi>Philip William</hi> Elector Palatin, and Arch-Treaſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rer of the Sa<g ref="char:EOLhyphen"/>cred <hi>Roman</hi> Empire.</item>
+            </list>
+            <p>They being aſſembled at <hi>Augsbourg,</hi> the Emperor in a fine Speech deſired them to chuſe a King of the <hi>Romans,</hi> to which hitherto the unhappy Diviſion of the Empire has put a ſtop, and now being united, he intreated them to proceed to that Election for the good of the Empire, and then that the <hi>French</hi> King might be fruſtrated in his imaginary and vain hopes he hitherto did feed himſelf with, in aſpiring to an Univerſal Monarchy, and recommended to them his own Son <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> King of <hi>Hungaria,</hi> as well for his Virtue as his Power.</p>
+            <p>This Prince <hi>Joſeph,</hi> whoſe Youth promiſes great things, was born the 26th. of <hi>June</hi> 1678. of <hi>Leopold</hi> the Emperor his Father, and of <hi>Eleonora</hi> the Empreſs his Mother, the Elector <hi>Palatin</hi>'s eldeſt Daughter.</p>
+            <p>Upon this the Electors continued in their Meetings and Conſulta<g ref="char:EOLhyphen"/>tions, and fixed the 21/11 of <hi>January</hi> 1690, for that great Election, and formed the Capitulation the King of the <hi>Romans</hi> is bound by Oath to keep, and then upon the ſaid day they proceeded to the Election, and with one conſent they choſe <hi>Joſeph</hi> King of <hi>Hungaria</hi> King of the <hi>Romans.</hi>
+            </p>
+            <p>The Coronation is ſpeedily to be performed, and great preparati<g ref="char:EOLhyphen"/>ons are made for it, and a great quantity of Medals coined: The con<g ref="char:EOLhyphen"/>fluence of Strangers of all ranks which come from all parts of <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi> to ſee this unparallel'd ſight, is ſo great here, that we reckon above 3000 already come to this place.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30340:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
